@@ -8,6 +8,7 @@ import {
 } from "react-native";
 
 import { Feather } from "@expo/vector-icons";
+import { MotiView, MotiText } from "moti";
 
 const StatusBarHeight = StatusBar.currentHeight
   ? StatusBar.currentHeight + 22
